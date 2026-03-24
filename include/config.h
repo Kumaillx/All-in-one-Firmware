@@ -30,7 +30,7 @@
 #define DEFAULT_MQTT_PORT 1883
 #define PORT_FOR_API 8000
 
-#define FIREBASE_HOST "abb-meters-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_HOST "cellsa-smartmeter-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define FIREBASE_AUTH "AIzaSyDzLsvHQ3whWi9-1OTDWlNE9tDkcEi484Y"
 
 #define WIFI_SCAN_FAILURE_LIMIT 3
