@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "regex": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/acer/Documents/PlatformIO/Projects/SmartMeter-LocalServer/.pio/libdeps/esp32doit-devkit-v1/AsyncTCP"
+}
